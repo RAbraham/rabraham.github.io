@@ -167,4 +167,4 @@ ServiceEndpoint: https://l4qajv7v95.execute-api.us-east-1.amazonaws.com/dev
 &lt;/pre&gt;&lt;/div&gt;
 
 
-&lt;p&gt;I hope this enables you to make PureScript web applications!&lt;/p&gt;</content><category term="purescript"></category><category term="aws-lambda"></category><category term="express"></category><category term="serverless"></category></entry></feed>
+&lt;p&gt;I hope this enables you to make PureScript web applications! Thanks to &lt;a href="https://github.com/nkly/purescript-express"&gt;purescript-express&lt;/a&gt; and &lt;a href="https://github.com/lpil/purescript-aws-lambda-express"&gt;purescript-aws-lambda-express&lt;/a&gt; for making this possible.&lt;/p&gt;</content><category term="purescript"></category><category term="aws-lambda"></category><category term="express"></category><category term="serverless"></category></entry></feed>
